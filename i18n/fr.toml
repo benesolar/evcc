@@ -27,8 +27,8 @@ never = "seulement quand surplus suffisant."
 [config]
 
 [config.battery]
-titleAdd = "Ajouter compteur pour une batterie domestique"
-titleEdit = "Modifier compteur pour batterie"
+titleAdd = "Ajouter une batterie domestique"
+titleEdit = "Modifier batterie"
 
 [config.circuits]
 description = "Vérifiez que la somme de tous les points de charges connectés à un circuit ne dépassent pas les limites de puissance et de courant. Les circuits peuvent être combinés pour construire une hiérarchie."
@@ -79,6 +79,7 @@ temp = "Température"
 topic = "Sujet"
 url = "URL"
 yes = "oui"
+controllable = "Contrôlable"
 
 [config.eebus]
 description = "Configuration permettant à evcc de communiquer avec d’autres appareils EEBus."
@@ -293,6 +294,7 @@ tabTitle = "Mes données"
 30d = "30 derniers jours"
 365d = "365 derniers jours"
 total = "tout"
+thisYear = "cette année"
 
 [footer.sponsor]
 becomeSponsor = "Devenir parrain"
