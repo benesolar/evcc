@@ -294,6 +294,7 @@ tabTitle = "Mis datos"
 30d = "últimos 30 días"
 365d = "último año"
 total = "desde siempre"
+thisYear = "este año"
 
 [footer.sponsor]
 becomeSponsor = "Conviértete en patrocinador"
